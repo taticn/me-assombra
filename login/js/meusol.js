@@ -197,8 +197,7 @@
 
 
 
-/* Você pode "Hacker" o Login, obtendo Usuário e Senha armazenados nesse .js, bem como acessando o endereço
-http://alexaquino.space/me_namora/final.html diretamente no navegador. Divirtam-se! :D */
+
 
 function validate() {
     var username = document.getElementById("username").value;
